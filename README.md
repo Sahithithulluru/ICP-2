@@ -1,1 +1,4 @@
 # ICP-2
+**VIDEO LINK**: https://drive.google.com/file/d/1ZLKOSeUhWmOrqQPa9w5ZHEv89tN-0jCJ/view?usp=sharing
+
+**SUMMARY**: For the first question I prompted the user to enter the firstname and last name and printed the full name by appending first and last name. For the alternate characters I called a method return each alternative character. For the first question I prompted the user to enter the firstname and last name and printed the full name by appending first and last name. For the alternate characters i called a method return each alternative character. For the next question I prompted the user to enter the heights of customers seperated by spaces, I converted the heights to centimeters by calling a method, In which I rounded the result to 2 decimal places, and appending the converted height to a list and returned it. For list comprehensions I called a seperate method. And multiplied each value using  list comprehensions and returned the result.
